@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #FFFFFF;
+}
+
+/* carousel */
+.custom-carousel-height {
+  height: 470px; 
+}
+.custom-carousel-height img {
+  height: 100%; 
+  object-fit: cover;
+}
+.light{
+  background: #FFFFFF;
+}
+
+/* mejorar el padding en article */
+.fondo{
+  padding: 70px 30px 70px 70px;
+}
+
